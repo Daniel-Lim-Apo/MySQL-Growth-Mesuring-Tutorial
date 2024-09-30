@@ -1,7 +1,3 @@
-# MySQL-Growth-Mesuring-Tutorial
-
-Tutorial about how to mesure MySQL growthing
-
 # Measuring Record Size and Estimating Database Growth in MySQL
 
 By understanding how to calculate the size of individual records and the overall database size, you can better plan for future storage needs. Monitoring your database size regularly and making informed growth projections will help maintain performance and ensure efficient resource allocation.
